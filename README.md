@@ -38,7 +38,8 @@ Make sure you have python 3.10 or later installed
 1. Fork the repository
 2. Clone your fork locally
 3. Navigate to the build directory: `cd build`
-4. Run the gui.py file: `python gui.py`
+4. Run the backend.py file: `python backend.py`
+5. Run the gui.py file: `python gui.py`
 
 ## 🤝 Contributing
 Contributions are welcomed! Make PyChat even better by putting your expertise into it. <br>
