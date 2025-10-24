@@ -15,7 +15,8 @@ Make sure you have python 3.10 or later installed
 1. Fork the repository
 2. Clone your fork locally
 3. Navigate to the build directory: `cd build`
-4. Run the gui.py file: `python gui.py`
+4. Run the backend.py file: `python backend.py`
+5. Run the gui.py file: `python gui.py`
 
 ### Code Contributions
 1. Commit your changes with a descriptive message
@@ -39,5 +40,6 @@ Make sure you have python 3.10 or later installed
 - Help others in discussions and issues
 
 Thank you for contributing! 😊
+
 
 
