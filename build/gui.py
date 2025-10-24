@@ -5,7 +5,7 @@ from tkinter import *
 from pathlib import Path
 
 # === API Configuration ===
-BACKEND_URL = "http://localhost:5000/chat"  # Flask backend endpoint
+BACKEND_URL = "https://pychat-6djk.onrender.com/"  # Flask backend endpoint
 
 # === UI Setup ===
 OUTPUT_PATH = Path(__file__).parent
@@ -95,3 +95,4 @@ canvas.create_text(0.0, 553.0, anchor="nw", text="PyChat v1.0.03",
                    fill="#000000", font=("Inter", 10 * -1))
 window.resizable(False, False)
 window.mainloop()
+
